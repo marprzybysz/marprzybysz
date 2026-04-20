@@ -1,4 +1,4 @@
-# Hi there, I'm [Marcin]! 👋 😏
+# Hi there, I'm Marcin! 👋 😏
 
 I am a passionate Developer who enjoys diving deep into the tech stack—from low-level **C++** and **Gentoo Linux** optimizations to building modern full-stack applications using **Next.js** and **FastAPI**.
 
