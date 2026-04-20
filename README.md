@@ -68,4 +68,4 @@ A dedicated application designed to streamline and manage the job application pr
 ---
 
 ### 💡 Fun Fact
-Since I use **Gentoo**, I'm not afraid of compiling my own kernels or spending hours fine-tuning my system. If you see a bug in my repo, I'm probably already fixing it with a cup of coffee in my hand... 🥺😏 Hi there 👋
+Since I use **Gentoo**, I'm not afraid of compiling my own kernels or spending hours fine-tuning my system. If you see a bug in my repo, I'm probably already fixing it with a cup of coffee in my hand... 🥺😏
