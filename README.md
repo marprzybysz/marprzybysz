@@ -1,6 +1,6 @@
 # Hi there, I'm Marcin! 👋 😏
 
-I am a passionate Developer who enjoys diving deep into the tech stack—from low-level **C++** and **Gentoo Linux** optimizations to building modern full-stack applications using **Next.js** and **FastAPI**.
+I am a passionate Developer who enjoys diving deep into the tech stack from low-level **C++** and **Gentoo Linux** optimizations to building modern full-stack applications using **Next.js** and **FastAPI**.
 
 ### 🚀 Featured Project: [ApplyManager](https://github.com/marprzybysz/applymanager)
 A dedicated application designed to streamline and manage the job application process. It helps developers and professionals keep track of their recruitment stages in one place.
