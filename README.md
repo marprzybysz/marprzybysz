@@ -29,6 +29,8 @@ A dedicated application designed to streamline and manage the job application pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-5B4093?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### 🎯 Currently Working On
 * ✨ Improving the architecture of **ApplyManager**.
@@ -44,4 +46,4 @@ A dedicated application designed to streamline and manage the job application pr
 ---
 
 ### 💡 Fun Fact
-Since I use **Gentoo**, I'm not afraid of compiling my own kernels or spending hours fine-tuning my system. If you see a bug in my repo, I'm probably already fixing it with a cup of coffee in my hand... 🥺😏## Hi there 👋
+Since I use **Gentoo**, I'm not afraid of compiling my own kernels or spending hours fine-tuning my system. If you see a bug in my repo, I'm probably already fixing it with a cup of coffee in my hand... 🥺😏 ## Hi there 👋
