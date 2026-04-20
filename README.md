@@ -33,8 +33,6 @@ A dedicated application designed to streamline and manage the job application pr
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
-
 ### 🎯 Currently Working On
 * ✨ Improving the architecture of **ApplyManager**.
 * 🐳 Deepening my knowledge of containerization and deployment workflows.
