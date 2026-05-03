@@ -53,11 +53,6 @@ A dedicated application designed to streamline and manage the job application pr
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marprzybysz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marprzybysz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="195" />
-</p>
-
 
 ### 🎯 Currently Working On
 * ✨ Improving the architecture of **ApplyManager**.
